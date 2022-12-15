@@ -8,7 +8,7 @@ Future Scope:
 2. Auto resize the custom images
 3. Decide on one successful test and only play that algorithm instead of always running 50 birds
 4. Eliminate initial frame drop
-5. Modularize each class into different python files for better code practice
+
 
 
 Different modes tried till now:
